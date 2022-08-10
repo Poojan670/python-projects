@@ -68,13 +68,15 @@ def web_scrapping():
 
                     try:
                         rating = movie.find('h4', class_='rating').text
+                        genres_data = movie.find('figcaption', class_='hidden-xs hidden-sm').get_text(strip=True)
+                        a = genres_data.rfind('10')
+                        b = genres_data.rfind('View')
+                        genre = genres_data[a + 2:b]
                     except AttributeError:
                         rating = None
-
-                    genres_data = movie.find('figcaption', class_='hidden-xs hidden-sm').get_text(strip=True)
-                    a = genres_data.rfind('10')
-                    b = genres_data.rfind('View')
-                    genre = genres_data[a + 2:b]
+                        genres_data = movie.find('figcaption', class_='hidden-xs hidden-sm').get_text(strip=True)
+                        b = genres_data.rfind('View')
+                        genre = genres_data[:b]
 
                     SN += 1
 
