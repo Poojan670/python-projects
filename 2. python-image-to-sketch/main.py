@@ -1,7 +1,7 @@
 import cv2
 import matplotlib.pyplot as pic
 
-'''
+'''py
     Original Image Setup
 '''
 
@@ -9,7 +9,7 @@ import matplotlib.pyplot as pic
 pic.style.use('seaborn-darkgrid')
 
 # read image from cv2
-img = cv2.imread("ori.png")
+img = cv2.imread("girl.png")
 
 # Set the image to default RGB
 img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
