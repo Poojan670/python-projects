@@ -1,0 +1,1003 @@
+[
+  {
+    "model": "core.District",
+    "pk": 1,
+    "fields": {
+      "name": "Taplejung",
+      "is_default": false,
+      "active": true,
+      "province": 1,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 2,
+    "fields": {
+      "name": "Sankhuwasabha",
+      "is_default": false,
+      "active": true,
+      "province": 1,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 3,
+    "fields": {
+      "name": "Solukhumbu",
+      "is_default": false,
+      "active": true,
+      "province": 1,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 4,
+    "fields": {
+      "name": "Okhaldhunga",
+      "is_default": false,
+      "active": true,
+      "province": 1,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 5,
+    "fields": {
+      "name": "Khotang",
+      "is_default": false,
+      "active": true,
+      "province": 1,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 6,
+    "fields": {
+      "name": "Bhojpur",
+      "is_default": false,
+      "active": true,
+      "province": 1,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 7,
+    "fields": {
+      "name": "Dhankuta",
+      "is_default": false,
+      "active": true,
+      "province": 1,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 8,
+    "fields": {
+      "name": "Terhathum",
+      "is_default": false,
+      "active": true,
+      "province": 1,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 9,
+    "fields": {
+      "name": "Panchthar",
+      "is_default": false,
+      "active": true,
+      "province": 1,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 10,
+    "fields": {
+      "name": "Ilam",
+      "is_default": false,
+      "active": true,
+      "province": 1,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 11,
+    "fields": {
+      "name": "Jhapa",
+      "is_default": false,
+      "active": true,
+      "province": 1,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 12,
+    "fields": {
+      "name": "Morang",
+      "is_default": false,
+      "active": true,
+      "province": 1,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 13,
+    "fields": {
+      "name": "Sunsari",
+      "is_default": false,
+      "active": true,
+      "province": 1,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 14,
+    "fields": {
+      "name": "Udayapur",
+      "is_default": false,
+      "active": true,
+      "province": 1,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 15,
+    "fields": {
+      "name": "Saptari",
+      "is_default": false,
+      "active": true,
+      "province": 2,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 16,
+    "fields": {
+      "name": "Siraha",
+      "is_default": false,
+      "active": true,
+      "province": 2,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 17,
+    "fields": {
+      "name": "Dhanusa",
+      "is_default": false,
+      "active": true,
+      "province": 2,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 18,
+    "fields": {
+      "name": "Mahottari",
+      "is_default": false,
+      "active": true,
+      "province": 2,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 19,
+    "fields": {
+      "name": "Sarlahi",
+      "is_default": false,
+      "active": true,
+      "province": 2,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 20,
+    "fields": {
+      "name": "Rautahat",
+      "is_default": false,
+      "active": true,
+      "province": 2,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 21,
+    "fields": {
+      "name": "Bara",
+      "is_default": false,
+      "active": true,
+      "province": 2,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 22,
+    "fields": {
+      "name": "Parsa",
+      "is_default": false,
+      "active": true,
+      "province": 2,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 23,
+    "fields": {
+      "name": "Dolakha",
+      "is_default": false,
+      "active": true,
+      "province": 3,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 24,
+    "fields": {
+      "name": "Sindhupalchok",
+      "is_default": false,
+      "active": true,
+      "province": 3,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 25,
+    "fields": {
+      "name": "Rasuwa",
+      "is_default": false,
+      "active": true,
+      "province": 3,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 26,
+    "fields": {
+      "name": "Dhading",
+      "is_default": false,
+      "active": true,
+      "province": 3,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 27,
+    "fields": {
+      "name": "Nuwakot",
+      "is_default": false,
+      "active": true,
+      "province": 3,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 28,
+    "fields": {
+      "name": "Kathmandu",
+      "is_default": false,
+      "active": true,
+      "province": 3,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 29,
+    "fields": {
+      "name": "Bhaktapur",
+      "is_default": false,
+      "active": true,
+      "province": 3,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 30,
+    "fields": {
+      "name": "Lalitpur",
+      "is_default": false,
+      "active": true,
+      "province": 3,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 31,
+    "fields": {
+      "name": "Kavrepalanchok",
+      "is_default": false,
+      "active": true,
+      "province": 3,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 32,
+    "fields": {
+      "name": "Ramechhap",
+      "is_default": false,
+      "active": true,
+      "province": 3,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 33,
+    "fields": {
+      "name": "Sindhuli",
+      "is_default": false,
+      "active": true,
+      "province": 3,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 34,
+    "fields": {
+      "name": "Makwanpur",
+      "is_default": false,
+      "active": true,
+      "province": 3,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 35,
+    "fields": {
+      "name": "Chitawan",
+      "is_default": false,
+      "active": true,
+      "province": 3,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 36,
+    "fields": {
+      "name": "Gorkha",
+      "is_default": false,
+      "active": true,
+      "province": 4,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 37,
+    "fields": {
+      "name": "Manang",
+      "is_default": false,
+      "active": true,
+      "province": 4,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 38,
+    "fields": {
+      "name": "Mustang",
+      "is_default": false,
+      "active": true,
+      "province": 4,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 39,
+    "fields": {
+      "name": "Myagdi",
+      "is_default": false,
+      "active": true,
+      "province": 4,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 40,
+    "fields": {
+      "name": "Kaski",
+      "is_default": false,
+      "active": true,
+      "province": 4,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 41,
+    "fields": {
+      "name": "Lamjung",
+      "is_default": false,
+      "active": true,
+      "province": 4,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 42,
+    "fields": {
+      "name": "Tanahu",
+      "is_default": false,
+      "active": true,
+      "province": 4,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 43,
+    "fields": {
+      "name": "Nawalparasi East",
+      "is_default": false,
+      "active": true,
+      "province": 4,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 44,
+    "fields": {
+      "name": "Syangja",
+      "is_default": false,
+      "active": true,
+      "province": 4,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 45,
+    "fields": {
+      "name": "Parbat",
+      "is_default": false,
+      "active": true,
+      "province": 4,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 46,
+    "fields": {
+      "name": "Baglung",
+      "is_default": false,
+      "active": true,
+      "province": 4,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 47,
+    "fields": {
+      "name": "Rukum East",
+      "is_default": false,
+      "active": true,
+      "province": 5,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 48,
+    "fields": {
+      "name": "Rolpa",
+      "is_default": false,
+      "active": true,
+      "province": 5,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 49,
+    "fields": {
+      "name": "Pyuthan",
+      "is_default": false,
+      "active": true,
+      "province": 5,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 50,
+    "fields": {
+      "name": "Gulmi",
+      "is_default": false,
+      "active": true,
+      "province": 5,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 51,
+    "fields": {
+      "name": "Arghakhanchi",
+      "is_default": false,
+      "active": true,
+      "province": 5,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 52,
+    "fields": {
+      "name": "Palpa",
+      "is_default": false,
+      "active": true,
+      "province": 5,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 53,
+    "fields": {
+      "name": "Nawalparasi West",
+      "is_default": false,
+      "active": true,
+      "province": 5,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 54,
+    "fields": {
+      "name": "Rupandehi",
+      "is_default": false,
+      "active": true,
+      "province": 5,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 55,
+    "fields": {
+      "name": "Kapilbastu",
+      "is_default": false,
+      "active": true,
+      "province": 5,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 56,
+    "fields": {
+      "name": "Dang",
+      "is_default": false,
+      "active": true,
+      "province": 5,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 57,
+    "fields": {
+      "name": "Banke",
+      "is_default": false,
+      "active": true,
+      "province": 5,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 58,
+    "fields": {
+      "name": "Bardiya",
+      "is_default": false,
+      "active": true,
+      "province": 5,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 59,
+    "fields": {
+      "name": "Dolpa",
+      "is_default": false,
+      "active": true,
+      "province": 6,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 60,
+    "fields": {
+      "name": "Mugu",
+      "is_default": false,
+      "active": true,
+      "province": 6,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 61,
+    "fields": {
+      "name": "Humla",
+      "is_default": false,
+      "active": true,
+      "province": 6,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 62,
+    "fields": {
+      "name": "Jumla",
+      "is_default": false,
+      "active": true,
+      "province": 6,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 63,
+    "fields": {
+      "name": "Kalikot",
+      "is_default": false,
+      "active": true,
+      "province": 6,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 64,
+    "fields": {
+      "name": "Dailekh",
+      "is_default": false,
+      "active": true,
+      "province": 6,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 65,
+    "fields": {
+      "name": "Jajarkot",
+      "is_default": false,
+      "active": true,
+      "province": 6,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 66,
+    "fields": {
+      "name": "Rukum West",
+      "is_default": false,
+      "active": true,
+      "province": 6,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 67,
+    "fields": {
+      "name": "Salyan",
+      "is_default": false,
+      "active": true,
+      "province": 6,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 68,
+    "fields": {
+      "name": "Surkhet",
+      "is_default": false,
+      "active": true,
+      "province": 6,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 69,
+    "fields": {
+      "name": "Bajura",
+      "is_default": false,
+      "active": true,
+      "province": 7,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 70,
+    "fields": {
+      "name": "Bajhang",
+      "is_default": false,
+      "active": true,
+      "province": 7,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 71,
+    "fields": {
+      "name": "Darchula",
+      "is_default": false,
+      "active": true,
+      "province": 7,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 72,
+    "fields": {
+      "name": "Baitadi",
+      "is_default": false,
+      "active": true,
+      "province": 7,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 73,
+    "fields": {
+      "name": "Dadeldhura",
+      "is_default": false,
+      "active": true,
+      "province": 7,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 74,
+    "fields": {
+      "name": "Doti",
+      "is_default": false,
+      "active": true,
+      "province": 7,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 75,
+    "fields": {
+      "name": "Achham",
+      "is_default": false,
+      "active": true,
+      "province": 7,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 76,
+    "fields": {
+      "name": "Kailali",
+      "is_default": false,
+      "active": true,
+      "province": 7,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.District",
+    "pk": 77,
+    "fields": {
+      "name": "Kanchanpur",
+      "is_default": false,
+      "active": true,
+      "province": 7,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  }
+]

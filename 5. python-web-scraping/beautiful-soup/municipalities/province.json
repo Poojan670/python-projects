@@ -1,0 +1,86 @@
+[
+  {
+    "model": "core.Province",
+    "pk": 1,
+    "fields": {
+      "name": "Province No 1",
+      "is_default": false,
+      "active": true,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.Province",
+    "pk": 2,
+    "fields": {
+      "name": "Province No 2",
+      "is_default": false,
+      "active": true,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.Province",
+    "pk": 3,
+    "fields": {
+      "name": "Bagmati",
+      "is_default": false,
+      "active": true,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.Province",
+    "pk": 4,
+    "fields": {
+      "name": "Gandaki",
+      "is_default": false,
+      "active": true,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.Province",
+    "pk": 5,
+    "fields": {
+      "name": "Province No 5",
+      "is_default": false,
+      "active": true,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.Province",
+    "pk": 6,
+    "fields": {
+      "name": "Karnali",
+      "is_default": false,
+      "active": true,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  },
+  {
+    "model": "core.Province",
+    "pk": 7,
+    "fields": {
+      "name": "Sudurpaschim",
+      "is_default": false,
+      "active": true,
+      "created_date_ad": "2022-08-19 10:52:29.068719+05:45",
+      "created_date_bs": "2079-08-21",
+      "created_by": 1
+    }
+  }
+]
